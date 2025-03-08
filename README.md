@@ -19,15 +19,15 @@
    git clone https://github.com/F-ar-G/form_test.git
    cd form_test
 3. Установите зависимости:
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 4. Убедитесь, что у вас установлен ChromeDriver и он совместим с вашей версией Chrome.
 
 📌 Запуск тестов
 
 Запуск всех тестов:
-pytest form_test/
+   pytest form_test/
 
 Запуск с подробным логом:
-pytest -v
+   pytest -v
 
 
